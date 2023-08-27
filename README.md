@@ -1,6 +1,8 @@
 # Note App - React and Django
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krishna-upadhyay192/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@krupadhyay192) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/krishnaa192) 
 
 Welcome to the Note App! This is a web application built using React for the frontend and Django for the backend. The app allows users to create, edit, and manage their notes in a convenient way.
 ## Technologies Used
@@ -56,9 +58,9 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/krishnaa192/NoteApp.git
-   cd NoteApp
+ 
+   $ git clone https://github.com/krishnaa192/NoteApp.git
+   $ NoteApp
 2. Install Frontend Dependency:
     ```bash
    cd frontend
