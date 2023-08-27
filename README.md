@@ -4,7 +4,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krishna-upadhyay192/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@krupadhyay192) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/krishnaa192) 
 
-Welcome to the Note App! This is a web application built using React for the frontend and Django for the backend. The app allows users to create, edit, and manage their notes in a convenient way.
+Welcome to the Note App! This is a web application built using React for the front end and Django for the back end. The app allows users to create, edit, and manage their notes in a convenient way.
 ## Technologies Used
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
@@ -26,6 +26,7 @@ Welcome to the Note App! This is a web application built using React for the fro
 ## Table of Contents
 
 - [Features](#features)
+- [Screenshots](#Screenshots)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
