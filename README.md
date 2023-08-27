@@ -7,7 +7,7 @@ Welcome to the Note App! This is a web application built using React for the fro
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <div>
-  <i class="fab fa-react"></i> <!-- React icon -->
+  <i class="fa fa-react"></i> <!-- React icon -->
 
 
   <span class="icon react"></span> <!-- React icon -->
@@ -16,7 +16,7 @@ Welcome to the Note App! This is a web application built using React for the fro
 
 <div>
   
-<i class="fab fa-python"></i> <!-- Django icon -->
+<i class="fa fa-python"></i> <!-- Django icon -->
   <span class="icon django"></span> <!-- Django icon -->
   <span>Django</span>
 </div>
@@ -35,9 +35,14 @@ Welcome to the Note App! This is a web application built using React for the fro
 
 - Create, edit, and delete notes.
 - User authentication and authorization.
+
 - Intuitive user interface for managing notes.
 
 
+## Screenshots
+![Screenshot from 2023-08-28 02-35-25](https://github.com/krishnaa192/NoteApp/assets/86311851/081cef1a-1ddf-44e5-966a-e4449ce25d69)
+![Screenshot from 2023-08-28 02-34-42](https://github.com/krishnaa192/NoteApp/assets/86311851/8681a4b2-735a-4b7f-8996-3d56e78b8fe4)
+![Screenshot from 2023-08-28 02-35-02](https://github.com/krishnaa192/NoteApp/assets/86311851/0349ca3b-7edf-4df0-aa24-aa8d33adfdcf)
 ## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
