@@ -74,7 +74,6 @@ Follow these instructions to get a copy of the project up and running on your lo
     cd backend
    python manage.py runserver
 
-
    
   
 
