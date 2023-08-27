@@ -4,13 +4,19 @@
 
 Welcome to the Note App! This is a web application built using React for the frontend and Django for the backend. The app allows users to create, edit, and manage their notes in a convenient way.
 ## Technologies Used
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <div>
+  <i class="fab fa-react"></i> <!-- React icon -->
+
+
   <span class="icon react"></span> <!-- React icon -->
   <span>React</span>
 </div>
 
 <div>
+  
+<i class="fab fa-python"></i> <!-- Django icon -->
   <span class="icon django"></span> <!-- Django icon -->
   <span>Django</span>
 </div>
